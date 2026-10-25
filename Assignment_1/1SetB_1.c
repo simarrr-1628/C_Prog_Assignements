@@ -1,5 +1,4 @@
-#include <stdio.h>
-
+#include<stdio.h>
 int main() 
 {
     float X, sum = 0.0;
